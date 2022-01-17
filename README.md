@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+### 🔗
+- [My blog]
+
+### 📖
+- 2021.5 ~ : 42Seoul Cadet
+
+[![sham's 42 stats](https://badge42.herokuapp.com/api/stats/sham?privacyName=true)](https://github.com/GulSam00)
+
+### 💪
+
+
 <!--
 **GulSam00/GulSam00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
