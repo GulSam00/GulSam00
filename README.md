@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m currently learning in 42Seoul since 2021.
+
+I’m interested in Javascript, React.
+
 ### 🔗
 - [My blog]
 
