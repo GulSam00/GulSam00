@@ -10,9 +10,6 @@ I’m interested in Javascript, React.
 
 ### 📖
 - 2021.5 ~ : 42Seoul Cadet
-
-
-[![sham's 42 stats](https://badge42.herokuapp.com/api/stats/sham?privacyName=true)](https://github.com/GulSam00)
     
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GulSam00&show_icons=true&theme=radical" alt="sham's github stats" />
