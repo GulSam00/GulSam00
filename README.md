@@ -2,13 +2,8 @@
 
 I’m currently learning in 42Seoul since 2021.
 
-I’m interested in Javascript, React.
+I’m interested in Javascript, Typescript, React.
 
-### 🔗
-
-### 💪
-
-### 📖
 - 2021.5 ~ : 42Seoul Cadet
     
 <div>
