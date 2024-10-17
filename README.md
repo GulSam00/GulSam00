@@ -6,8 +6,8 @@ I’m interested in Javascript, Typescript, React.
 
 - 2021.5 ~ : 42Seoul Cadet
 
-Contant. gulsamcono@gmail.com
-Velog. https://velog.io/@sham/posts
+- Contant. gulsamcono@gmail.com
+- Velog. https://velog.io/@sham/posts
     
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GulSam00&show_icons=true&theme=radical" alt="sham's github stats" />
