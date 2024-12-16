@@ -6,7 +6,7 @@ I’m interested in Javascript, Typescript, React.
 
 - 2021.5 ~ : 42Seoul Cadet
 
-- Contant. gulsamcono@gmail.com
+- Contact. gulsamcono@gmail.com
 - Velog. https://velog.io/@sham/posts
     
 <div>
