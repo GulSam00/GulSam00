@@ -4,7 +4,7 @@ I’m currently learning in 42Seoul since 2021.
 
 I’m interested in Javascript, Typescript, React.
 
-- 2021.5 ~ : 42Seoul Cadet
+- 2021.5 ~ 2024.3 : 42Seoul
 
 - Contact. gulsamcono@gmail.com
 - Velog. https://velog.io/@sham/posts
