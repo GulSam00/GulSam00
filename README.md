@@ -20,7 +20,7 @@
 
 
 
-## Etc
+## 💬 Etc
 
 <p align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=GulSam00&show_icons=true&theme=radical" alt="sham's github stats" width="49%" height="200px" />
