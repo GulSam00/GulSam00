@@ -1,4 +1,4 @@
-### '문제를 해결하는' 개발자, Sham입니다.
+## 🌱 '문제를 해결하는' 개발자, Sham입니다.
 
 <div>2021년, 42Seoul이라는 교육 기관에서 프로그래밍을 접한 것을 계기로 개발자의 길을 걷게 되었습니다. </div>
 <div>프로그래머란, 주어진 문제를 개발적 사고와 역량으로 해결하는 사람이라고 생각합니다.</div>
@@ -22,12 +22,11 @@
 
 ## Etc
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GulSam00&show_icons=true&theme=radical" alt="sham's github stats" />
-</div>
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulSam00&layout=compact" alt="Top Langs" />
-</div>
+<p align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=GulSam00&show_icons=true&theme=radical" alt="sham's github stats" width="49%" height="200px" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulSam00&layout=compact" alt="Top Langs" width="49%" height="200px"/>
+</p>
+    
 <!--
 **GulSam00/GulSam00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
