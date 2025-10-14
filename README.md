@@ -8,11 +8,20 @@
 
 <div> 기본적인 CS 지식과 C, C++에 대해 익혔으며 현재는 JS, TS, React, Next와 같은 프론트엔드 기술에 관심을 두고 있습니다. </div>
 
-
-
 - Contact. gulsamcono@gmail.com
 - Velog. https://velog.io/@sham/posts
+
+
+## ⚡ 주요 프로젝트
+
+### [Singcode](https://www.singcode.kr/)
+* 직접 제작한 DB를 바탕으로 제목/가수 키워드로 노래방 번호를 검색 및 저장해서 관리할 수 있는 서비스
     
+
+
+
+## Etc
+
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GulSam00&show_icons=true&theme=radical" alt="sham's github stats" />
 </div>
