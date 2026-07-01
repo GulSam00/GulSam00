@@ -23,7 +23,9 @@
 ## 💬 Etc
 
 <p align="center">
+    
 [![Sham's GitHub stats](https://github-stats-extended.vercel.app/api?username=GulSam00)](https://github.com/stats-organization/github-stats-extended)
+
 </p>
     
 <!--
