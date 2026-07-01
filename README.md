@@ -23,8 +23,7 @@
 ## 💬 Etc
 
 <p align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=GulSam00&show_icons=true&theme=radical" alt="sham's github stats" width="49%" height="200px" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulSam00&layout=compact" alt="Top Langs" width="49%" height="200px"/>
+[![Sham's GitHub stats](https://github-stats-extended.vercel.app/api?username=GulSam00)](https://github.com/stats-organization/github-stats-extended)
 </p>
     
 <!--
